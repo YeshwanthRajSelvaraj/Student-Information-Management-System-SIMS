@@ -91,7 +91,7 @@ The application uses a single table:
 
 ## 👨‍💻 Developer
 
-- **Your Name** - [LinkedIn Profile Link](https://www.linkedin.com/in/yeshwanth-raj-selvaraj-153796248/) - [GitHub Profile Link](https://github.com/YeshwanthRajSelvaraj)
+- **Yeshwanth Raj Selvaraj** - [LinkedIn Profile Link](https://www.linkedin.com/in/yeshwanth-raj-selvaraj-153796248/) - [GitHub Profile Link](https://github.com/YeshwanthRajSelvaraj)
 
 ## 📄 License
 
